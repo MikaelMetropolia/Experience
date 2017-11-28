@@ -3,6 +3,9 @@ a {
     color: inherit;
 }
 
+#test {
+    color: #fff;
+}
 body {
     margin: 0;
     font-family: 'Tangerine', serif;
